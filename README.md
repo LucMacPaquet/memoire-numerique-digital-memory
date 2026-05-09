@@ -4,7 +4,7 @@
 
 ## C'est quoi ?
 
-Un système de mémoire en Markdown où **Obsidian WebClip** et **l'agent IA structure**. La séparation entre `raw/` (entrée), `wiki/` (connaissance maintenue) et `archives/` (sources traitées) garde la mémoire cohérente sur la durée.
+Un système de mémoire en Markdown où **Obsidian capture** et **l'agent IA structure**. La séparation entre `raw/` (entrée), `wiki/` (connaissance maintenue) et `archives/` (sources traitées) garde la mémoire cohérente sur la durée.
 
 ## Par où commencer
 
