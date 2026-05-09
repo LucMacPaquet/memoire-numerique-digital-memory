@@ -170,6 +170,12 @@ Test obligatoire de bout en bout :
 7. Mettre à jour wiki/index.md, wiki/Daily/YYYY-MM-DD.md et wiki/log.md.
 8. Exécuter le comportement /save.
 9. Vérifier que raw/ ne contient plus la source test.
+10. Copier les skills essentiels dans ~/.claude/commands/ :                   
+   - skills/prime.md → ~/.claude/commands/prime.md       
+   - skills/ingest.md → ~/.claude/commands/ingest.md                         
+   - skills/save.md → ~/.claude/commands/save.md         
+   - skills/query.md → ~/.claude/commands/query.md                           
+   - skills/lint.md → ~/.claude/commands/lint.md      
 
 Validation obligatoire :
 - dossiers requis présents ;
@@ -187,6 +193,8 @@ Validation obligatoire :
 - note test créée dans wiki/idées/ ou wiki/ ;
 - note test contient frontmatter, résumé et "## Liens typés" ;
 - aucun secret détecté.
+- skills essentiels présents dans ~/.claude/commands/                         
+- /prime, /ingest, /save, /query et /lint disponibles dans Claude Code
 
 Contre-validation obligatoire :
 - relire le vault comme un auditeur sévère ;
@@ -216,7 +224,7 @@ Les tests du vault sont réussis. Maintenant, aide-moi à personnaliser AIOS/Me.
 Pose-moi des questions pour en apprendre plus sur moi, mon rôle, mes projets, mes objectifs, mes préférences de travail, mes contraintes, mes outils et ma façon de penser.
 
 Procède en entrevue guidée :
-- pose 5 à 10 questions à la fois ;
+- pose 1 question à la fois ;
 - commence par les informations essentielles ;
 - évite les questions trop abstraites ;
 - reformule mes réponses si elles sont ambiguës ;
