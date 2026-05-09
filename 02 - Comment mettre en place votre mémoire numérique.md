@@ -129,7 +129,7 @@ Règles absolues :
    - raw/clippings/
    - raw/docs/
    - wiki/Daily/
-   - wiki/Resources/
+   - wiki/Ressources/
    - wiki/Intelligence/
    - wiki/Projets/
    - wiki/idées/
@@ -152,7 +152,7 @@ Règles absolues :
    - wiki/index.md
    - wiki/log.md
    - wiki/Daily/YYYY-MM-DD.md
-   - wiki/Resources/index.md
+   - wiki/Ressources/index.md
 7. Vérifier que AIOS/Note Types.md contient les 16 types de notes.
 8. Vérifier que AIOS/Edge Types.md contient les 10 liens typés.
 9. Vérifier que les skills essentiels /prime, /ingest, /save, /query et /lint sont documentés.
@@ -175,7 +175,7 @@ Test obligatoire de bout en bout :
    - skills/ingest.md → ~/.claude/commands/ingest.md                         
    - skills/save.md → ~/.claude/commands/save.md         
    - skills/query.md → ~/.claude/commands/query.md                           
-   - skills/lint.md → ~/.claude/commands/lint.md      
+   - skills/lint.md → ~/.claude/commands/lint.md  
 
 Validation obligatoire :
 - dossiers requis présents ;
@@ -213,6 +213,7 @@ Rapport final attendu :
 - résultat de contre-validation ;
 - prochaines actions recommandées pour l'utilisateur.
 ```
+## Important - quitter et relancer claude code pour que les skills sont activés. 
 
 ## Prompt 2 - Personnaliser `AIOS/Me.md`
 
@@ -235,6 +236,7 @@ Procède en entrevue guidée :
 - respecte le format Markdown du vault ;
 - conserve un résumé en une phrase ;
 - termine avec un court résumé de ce que tu as ajouté ou modifié.
+- si des projets ont été mentionné, fais un répertoire par projet dans wiki/projet/(nom du projet) avec une note à l'intérieur pour ce projet.
 
 Commence maintenant par me poser les premières questions.
 ```
