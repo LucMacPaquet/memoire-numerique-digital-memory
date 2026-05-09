@@ -8,7 +8,7 @@ author: humain+claude
 
 # 13 - Comment bien utiliser la mémoire numérique
 
-> **Résumé en une phrase** : La meilleure utilisation de la mémoire numérique consiste à capturer vite dans `raw/`, puis à laisser l'agent IA structurer, relier et maintenir la connaissance durable.
+> **Résumé en une phrase** : La meilleure utilisation de la mémoire numérique consiste à capturer vite dans `raw/`, puis à laisser l'agent IA structurer, relier et maintenir la connaissance durable. Toujours terminé des actions liées ensemble par un `save/`
 
 ## Réflexe principal
 
@@ -20,7 +20,7 @@ La mémoire numérique fonctionne bien quand elle réduit la friction. Une idée
 
 Situation : vous êtes dans un événement techno, téléphone en main. Une présentation déclenche une idée pour un client.
 
-Capture dans Notes Rapides :
+Capture dans Notes Rapides (outil personnel et non documenté ici) :
 
 ```text
 2026-05-09 — Idée client
