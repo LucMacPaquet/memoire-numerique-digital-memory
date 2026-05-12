@@ -117,7 +117,7 @@ Types d'arêtes autorisés :
 
 ## Liens typés
 
-- fait-partie-de → [[Fonctionnement complet du vault Obsidian + AIOS]]
+- fait-partie-de → [[Fonctionnement-complet-du-vault-Obsidian-AIOS]]
 - soutient → [[AIOS/Note Types]]
 - soutient → [[AIOS/Edge Types]]
 - soutient → [[Infinite Brain - Knowledge Graph optimisé pour l'IA]]

@@ -78,7 +78,7 @@ Les règles dans `CLAUDE.md` et `AGENTS.md` dominent les préférences locales :
 
 ## Liens typés
 
-- fait-partie-de → [[Fonctionnement complet du vault Obsidian + AIOS]]
+- fait-partie-de → [[Fonctionnement-complet-du-vault-Obsidian-AIOS]]
 - soutient → [[AIOS/Me]]
 - soutient → [[AIOS/Vault Map]]
 - soutient → [[AIOS/Skills Map]]

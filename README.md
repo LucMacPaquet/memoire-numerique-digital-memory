@@ -10,13 +10,13 @@ Un système de mémoire en Markdown où **Obsidian capture** et **l'agent IA str
 
 Tout le manuel vit dans le vault. À lire dans l'ordre :
 
-1. `00 - Description de la mémoire numérique` — le concept
-2. `01 - Requis` — ce qu'il faut installer
-3. `02 - Comment mettre en place votre mémoire numérique` — laisser l'IA configurer le kit
-4. Notes `03` à `13` — architecture, cycle de session, ingest, skills, intégrations, entretien, choix des modèles, bonnes pratiques
+1. [00 - Description de la mémoire numérique](00-Description-de-la-memoire-numerique.md) — le concept
+2. [01 - Requis](01-Requis.md) — ce qu'il faut installer
+3. [02 - Comment mettre en place votre mémoire numérique](02-Comment-mettre-en-place-votre-memoire-numerique.md) — laisser l'IA configurer le kit
+4. Notes [03](03-Architecture-du-vault.md) à [13](13-Comment-bien-utiliser-la-memoire-numerique.md) — architecture, cycle de session, ingest, skills, intégrations, entretien, choix des modèles, bonnes pratiques
 
 Une fois en place, je vous invite à lire la section 
-[13 - Comment bien utiliser la mémoire numérique.md](https://github.com/LucMacPaquet/memoire-numerique-digital-memory/blob/main/13%20-%20Comment%20bien%20utiliser%20la%20m%C3%A9moire%20num%C3%A9rique.md)
+[13 - Comment bien utiliser la mémoire numérique](13-Comment-bien-utiliser-la-memoire-numerique.md)
 
 ## Auteur
 

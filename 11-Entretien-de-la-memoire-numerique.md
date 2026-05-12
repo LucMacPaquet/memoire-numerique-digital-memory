@@ -92,7 +92,7 @@ Ce choix augmente la fiabilité, mais ajoute de la complexité : sécurité, mis
 
 ## Liens typés
 
-- fait-partie-de → [[Fonctionnement complet du vault Obsidian + AIOS]]
-- soutient → [[10 - Maintenance et choses automatiques]]
-- soutient → [[03 - Architecture du vault]]
+- fait-partie-de → [[Fonctionnement-complet-du-vault-Obsidian-AIOS]]
+- soutient → [[10-Maintenance-et-choses-automatiques]]
+- soutient → [[03-Architecture-du-vault]]
 - rédigé-par → humain+claude

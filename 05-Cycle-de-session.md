@@ -82,7 +82,7 @@ Règle : ne jamais supprimer du contenu d'une daily, seulement ajouter ou compl�
 
 ## Liens typés
 
-- fait-partie-de → [[Fonctionnement complet du vault Obsidian + AIOS]]
+- fait-partie-de → [[Fonctionnement-complet-du-vault-Obsidian-AIOS]]
 - soutient → [[AIOS/Skills Map]]
 - soutient → [[Obsidian-Claude Code]]
 - rédigé-par → humain+claude

@@ -103,7 +103,7 @@ L'agent IA est responsable de l'écriture structurée dans `wiki/`, car lui seul
 
 ## Liens typés
 
-- fait-partie-de → [[Fonctionnement complet du vault Obsidian + AIOS]]
+- fait-partie-de → [[Fonctionnement-complet-du-vault-Obsidian-AIOS]]
 - soutient → [[AIOS/Vault Map]]
 - soutient → [[Obsidian-Claude Code]]
 - rédigé-par → humain+claude

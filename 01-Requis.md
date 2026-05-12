@@ -98,7 +98,7 @@ Source : [Microsoft — Sync files with OneDrive](https://support.microsoft.com/
 
 ## Liens typés
 
-- fait-partie-de → [[Fonctionnement complet du vault Obsidian + AIOS]]
-- soutient → [[00 - Description de la mémoire numérique]]
-- soutient → [[12 - Choix des modèles IA]]
+- fait-partie-de → [[Fonctionnement-complet-du-vault-Obsidian-AIOS]]
+- soutient → [[00-Description-de-la-memoire-numerique]]
+- soutient → [[12-Choix-des-modeles-IA]]
 - rédigé-par → humain+claude

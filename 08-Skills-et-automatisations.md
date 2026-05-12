@@ -75,9 +75,9 @@ Certaines actions doivent être faites automatiquement par l'agent quand elles d
 
 ## Liens typés
 
-- fait-partie-de → [[Fonctionnement complet du vault Obsidian + AIOS]]
+- fait-partie-de → [[Fonctionnement-complet-du-vault-Obsidian-AIOS]]
 - soutient → [[AIOS/Skills Map]]
 - soutient → [[Claude Code - Super Skills et System Karpathy]]
-- lié-à → [[09 - Automatisations externes et intégrations]]
+- lié-à → [[09-Automatisations-externes-et-integrations]]
 - lié-à → [[Obsidian Web Clipper - Internet en texte brut]]
 - rédigé-par → humain+claude

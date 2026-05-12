@@ -65,9 +65,9 @@ Pour un kit reproductible, documenter seulement :
 
 ## Liens typés
 
-- fait-partie-de → [[Fonctionnement complet du vault Obsidian + AIOS]]
+- fait-partie-de → [[Fonctionnement-complet-du-vault-Obsidian-AIOS]]
 - soutient → [[AIOS/Codex Config]]
-- soutient → [[06 - Ingest raw vers wiki]]
-- soutient → [[08 - Skills et automatisations]]
+- soutient → [[06-Ingest-raw-vers-wiki]]
+- soutient → [[08-Skills-et-automatisations]]
 - soutient → [[Obsidian Web Clipper - Internet en texte brut]]
 - rédigé-par → humain+claude

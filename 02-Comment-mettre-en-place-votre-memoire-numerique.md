@@ -251,7 +251,7 @@ Il ne remplace pas l'agent IA pour la structure durable de la mémoire.
 
 ### 2. Installer un outil IA
 
-Un seul outil IA suffit pour commencer. Les options possibles sont documentées dans [[01 - Requis]].
+Un seul outil IA suffit pour commencer. Les options possibles sont documentées dans [[01-Requis]].
 
 L'outil IA doit pouvoir travailler dans un dossier local, lire les fichiers Markdown et créer ou modifier des notes.
 
@@ -337,10 +337,10 @@ flowchart TD
 
 ## Liens typés
 
-- fait-partie-de → [[Fonctionnement complet du vault Obsidian + AIOS]]
-- précédé-par → [[01 - Requis]]
-- suivi-par → [[03 - Architecture du vault]]
-- soutient → [[04 - AIOS et règles de fonctionnement]]
-- soutient → [[06 - Ingest raw vers wiki]]
-- soutient → [[11 - Entretien de la mémoire numérique]]
+- fait-partie-de → [[Fonctionnement-complet-du-vault-Obsidian-AIOS]]
+- précédé-par → [[01-Requis]]
+- suivi-par → [[03-Architecture-du-vault]]
+- soutient → [[04-AIOS-et-regles-de-fonctionnement]]
+- soutient → [[06-Ingest-raw-vers-wiki]]
+- soutient → [[11-Entretien-de-la-memoire-numerique]]
 - rédigé-par → humain+claude

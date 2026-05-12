@@ -19,9 +19,9 @@ Cette mémoire est puissante, mais elle a un coût en tokens et demande une stra
 À lire dans cet ordre :
 
 1. Cette note maîtresse.
-2. `00 - Description de la mémoire numérique`, pour comprendre le concept.
-3. `01 - Requis`, pour installer le minimum nécessaire.
-4. `02 - Comment mettre en place votre mémoire numérique`, pour laisser l'IA configurer et tester le kit.
+2. `00-Description-de-la-memoire-numerique`, pour comprendre le concept.
+3. `01-Requis`, pour installer le minimum nécessaire.
+4. `02-Comment-mettre-en-place-votre-memoire-numerique`, pour laisser l'IA configurer et tester le kit.
 5. Les notes de fonctionnement ci-dessous.
 6. Les fichiers sources si une règle doit être vérifiée : `CLAUDE.md`, `AGENTS.md`, `AIOS/Vault Map.md`, `AIOS/Skills Map.md`.
 
@@ -82,33 +82,33 @@ Cette séparation garde la mémoire numérique cohérente : liens, types, journa
 
 ## Carte des notes du manuel
 
-![[00 - Description de la mémoire numérique]]
+![[00-Description-de-la-memoire-numerique]]
 
-![[01 - Requis]]
+![[01-Requis]]
 
-![[02 - Comment mettre en place votre mémoire numérique]]
+![[02-Comment-mettre-en-place-votre-memoire-numerique]]
 
-![[03 - Architecture du vault]]
+![[03-Architecture-du-vault]]
 
-![[04 - AIOS et règles de fonctionnement]]
+![[04-AIOS-et-regles-de-fonctionnement]]
 
-![[05 - Cycle de session]]
+![[05-Cycle-de-session]]
 
-![[06 - Ingest raw vers wiki]]
+![[06-Ingest-raw-vers-wiki]]
 
-![[07 - Standards des notes Markdown]]
+![[07-Standards-des-notes-Markdown]]
 
-![[08 - Skills et automatisations]]
+![[08-Skills-et-automatisations]]
 
-![[09 - Automatisations externes et intégrations]]
+![[09-Automatisations-externes-et-integrations]]
 
-![[10 - Maintenance et choses automatiques]]
+![[10-Maintenance-et-choses-automatiques]]
 
-![[11 - Entretien de la mémoire numérique]]
+![[11-Entretien-de-la-memoire-numerique]]
 
-![[12 - Choix des modèles IA]]
+![[12-Choix-des-modeles-IA]]
 
-![[13 - Comment bien utiliser la mémoire numérique]]
+![[13-Comment-bien-utiliser-la-memoire-numerique]]
 
 ## Flow décisionnel complet
 
@@ -157,8 +157,8 @@ flowchart TD
 - soutient → [[Obsidian-Claude Code]]
 - soutient → [[Obsidian Web Clipper - Internet en texte brut]]
 - soutient → [[Infinite Brain - Knowledge Graph optimisé pour l'IA]]
-- soutient → [[00 - Description de la mémoire numérique]]
-- soutient → [[01 - Requis]]
-- soutient → [[02 - Comment mettre en place votre mémoire numérique]]
-- soutient → [[11 - Entretien de la mémoire numérique]]
+- soutient → [[00-Description-de-la-memoire-numerique]]
+- soutient → [[01-Requis]]
+- soutient → [[02-Comment-mettre-en-place-votre-memoire-numerique]]
+- soutient → [[11-Entretien-de-la-memoire-numerique]]
 - rédigé-par → humain+claude
