@@ -97,7 +97,7 @@ Le lint propose les corrections ; il ne supprime jamais une note.
 
 ## Liens typés
 
-- fait-partie-de → [[Fonctionnement complet du vault Obsidian + AIOS]]
+- fait-partie-de → [[Fonctionnement-complet-du-vault-Obsidian-AIOS]]
 - soutient → [[AIOS/Skills Map]]
 - soutient → [[AIOS/Vault Map]]
 - rédigé-par → humain+claude

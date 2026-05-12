@@ -77,8 +77,8 @@ Les automatismes horodatés ont la même limite : si l'ordinateur qui les exécu
 
 ## Liens typés
 
-- fait-partie-de → [[Fonctionnement complet du vault Obsidian + AIOS]]
-- soutient → [[03 - Architecture du vault]]
-- soutient → [[06 - Ingest raw vers wiki]]
-- soutient → [[12 - Choix des modèles IA]]
+- fait-partie-de → [[Fonctionnement-complet-du-vault-Obsidian-AIOS]]
+- soutient → [[03-Architecture-du-vault]]
+- soutient → [[06-Ingest-raw-vers-wiki]]
+- soutient → [[12-Choix-des-modeles-IA]]
 - rédigé-par → humain+claude

@@ -108,9 +108,9 @@ wiki/Veilles/YYYY/mois/
 
 ## Liens typés
 
-- fait-partie-de → [[Fonctionnement complet du vault Obsidian + AIOS]]
+- fait-partie-de → [[Fonctionnement-complet-du-vault-Obsidian-AIOS]]
 - soutient → [[AIOS/Vault Map]]
 - soutient → [[AIOS/Skills Map]]
-- lié-à → [[08 - Skills et automatisations]]
+- lié-à → [[08-Skills-et-automatisations]]
 - lié-à → [[Obsidian Web Clipper - Prompt Interpreter]]
 - rédigé-par → humain+claude

@@ -92,8 +92,8 @@ Au prochain ingest, l'agent IA peut relier la capture au bon projet, créer une 
 
 ## Liens typés
 
-- fait-partie-de → [[Fonctionnement complet du vault Obsidian + AIOS]]
-- soutient → [[06 - Ingest raw vers wiki]]
-- soutient → [[08 - Skills et automatisations]]
+- fait-partie-de → [[Fonctionnement-complet-du-vault-Obsidian-AIOS]]
+- soutient → [[06-Ingest-raw-vers-wiki]]
+- soutient → [[08-Skills-et-automatisations]]
 - soutient → [[Obsidian Web Clipper - Internet en texte brut]]
 - rédigé-par → humain+claude

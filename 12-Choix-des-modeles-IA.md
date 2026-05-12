@@ -89,7 +89,7 @@ flowchart TD
 
 ## Liens typés
 
-- fait-partie-de → [[Fonctionnement complet du vault Obsidian + AIOS]]
-- soutient → [[01 - Requis]]
+- fait-partie-de → [[Fonctionnement-complet-du-vault-Obsidian-AIOS]]
+- soutient → [[01-Requis]]
 - soutient → [[Claude Code - Optimisation Contexte]]
 - rédigé-par → humain+claude
