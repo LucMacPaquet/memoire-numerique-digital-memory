@@ -18,7 +18,7 @@ Vous n'avez pas besoin de comprendre toute la mécanique au départ. Le principe
 
 1. Installer les outils de base.
 2. Créer un dossier pour la mémoire.
-3. Télécharger et décompresser [`kit-bootstrap.zip`](kit-bootstrap.zip), ou cloner ce repo.
+3. Télécharger [`kit-bootstrap.zip`](kit-bootstrap.zip) et le décompresser directement dans le dossier nouvellement créé.
 4. Coller le prompt de mise en place.
 5. Laisser l'IA copier les gabarits, remplacer les placeholders, valider et tester.
 6. Ouvrir le résultat dans Obsidian pour le lire et le valider visuellement.
@@ -71,7 +71,7 @@ Son rôle est de :
 
 1. Installer les outils.
 2. Choisir ou créer le dossier du vault.
-3. Donner accès au dossier `Kit bootstrap/`.
+3. Décompresser [`kit-bootstrap.zip`](kit-bootstrap.zip) dans le dossier du vault.
 4. Ouvrir le dossier du vault avec l'outil IA.
 5. Coller le prompt de mise en place.
 6. Répondre aux questions de l'IA si elle en pose.
