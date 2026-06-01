@@ -18,7 +18,7 @@ Vous n'avez pas besoin de comprendre toute la mécanique au départ. Le principe
 
 1. Installer les outils de base.
 2. Créer un dossier pour la mémoire.
-3. Fournir le dossier `Kit bootstrap/` à l'outil IA.
+3. Télécharger et décompresser [`kit-bootstrap.zip`](kit-bootstrap.zip), ou cloner ce repo.
 4. Coller le prompt de mise en place.
 5. Laisser l'IA copier les gabarits, remplacer les placeholders, valider et tester.
 6. Ouvrir le résultat dans Obsidian pour le lire et le valider visuellement.
@@ -56,7 +56,7 @@ La règle simple : l'utilisateur capture dans `raw/`, l'IA structure dans `wiki/
 - Installer Obsidian.
 - Installer au moins un outil IA : Claude Code, Codex, Gemini CLI ou OpenCode.
 - Créer un dossier vide pour votre mémoire numérique.
-- Placer ou rendre accessible le dossier `Kit bootstrap/`.
+- Télécharger [`kit-bootstrap.zip`](kit-bootstrap.zip) et le décompresser, ou cloner ce repo pour avoir accès au dossier `Kit bootstrap/`.
 - Ouvrir le dossier vide avec votre outil IA.
 - Coller le prompt 1 ci-dessous.
 - Lire le rapport de validation produit par l'IA.
@@ -267,7 +267,9 @@ Ce dossier deviendra le vault Obsidian.
 
 ### 4. Rendre le Kit bootstrap accessible
 
-Le dossier `Kit bootstrap/` doit être disponible pour l'outil IA : dans le même espace de travail, copié à côté du nouveau vault, ou fourni comme dossier de référence.
+**Option rapide** : télécharger [`kit-bootstrap.zip`](kit-bootstrap.zip) depuis ce repo et le décompresser à côté du dossier du nouveau vault.
+
+**Option complète** : cloner ce repo en entier — le dossier `Kit bootstrap/` s'y trouve déjà.
 
 L'important est que l'IA puisse lire les fichiers du kit et les copier dans le nouveau vault.
 
