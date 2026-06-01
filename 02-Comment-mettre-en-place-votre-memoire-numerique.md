@@ -56,7 +56,7 @@ La règle simple : l'utilisateur capture dans `raw/`, l'IA structure dans `wiki/
 - Installer Obsidian.
 - Installer au moins un outil IA : Claude Code, Codex, Gemini CLI ou OpenCode.
 - Créer un dossier vide pour votre mémoire numérique.
-- Télécharger [`kit-bootstrap.zip`](kit-bootstrap.zip) et le décompresser, ou cloner ce repo pour avoir accès au dossier `Kit bootstrap/`.
+- Télécharger [`kit-bootstrap.zip`](kit-bootstrap.zip) et le décompresser **dans le dossier de votre vault**.
 - Ouvrir le dossier vide avec votre outil IA.
 - Coller le prompt 1 ci-dessous.
 - Lire le rapport de validation produit par l'IA.
