@@ -6,6 +6,15 @@
 
 Un système de mémoire en Markdown où **Obsidian capture** et **l'agent IA structure**. La séparation entre `raw/` (entrée), `wiki/` (connaissance maintenue) et `archives/` (sources traitées) garde la mémoire cohérente sur la durée.
 
+## Téléchargement rapide
+
+Pour démarrer sans cloner le repo, téléchargez le Kit bootstrap :
+
+➡️ [kit-bootstrap.zip](kit-bootstrap.zip)
+
+Il contient `CLAUDE.md`, `AGENTS.md`, le dossier `AIOS/` et les skills de base.
+Suivez ensuite [02 - Comment mettre en place votre mémoire numérique](02-Comment-mettre-en-place-votre-memoire-numerique.md).
+
 ## Par où commencer
 
 Tout le manuel vit dans le vault. À lire dans l'ordre :
